@@ -1,0 +1,2 @@
+# bakery
+Odoo bakery application
